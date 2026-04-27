@@ -13,3 +13,24 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/equipe/categories/comites/scientifique/index.html"
+to = "/equipe/categories/implication/comites-osuny/comite-scientifique/"
+
+[[redirects]]
+from = "/equipe/categories/comites/index.html"
+to = "/equipe/categories/implication/comites-osuny/"
+
+[[redirects]]
+from = "/actualites/2024-11-13-mise-en-place-des-chroniques-osuny/index.html"
+to = "/faits/2024-11-13-mise-en-place-des-chroniques-osuny/"
+
+[[redirects]]
+from = "/actualites/index.html"
+to = "/faits/"
+
+[[redirects]]
+from = "/equipe/categories/implication/comites-osuny/scientifique/index.html"
+to = "/equipe/categories/implication/comites-osuny/comite-scientifique/"
+
