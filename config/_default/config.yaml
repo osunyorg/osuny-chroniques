@@ -1,3 +1,4 @@
+_merge: deep
 theme: osuny-www-design-system
 enableRobotsTXT: true
 removePathAccents: true
